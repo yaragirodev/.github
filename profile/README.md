@@ -2,7 +2,7 @@
 i do smth with python
 
 > [!CAUTION]
-> i use windows btw
+> dumb as hell
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,bash,md)](https://skillicons.dev)
 
