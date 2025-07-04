@@ -2,7 +2,7 @@
 i do smth with python
 
 > [!CAUTION]
-> dumb as hell
+> ![stat](https://github-readme-stats.vercel.app/api?username=yaragirodev&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,bash,md)](https://skillicons.dev)
 
