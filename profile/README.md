@@ -19,4 +19,4 @@ i do smth with python
 >
 > DOS parody written on Python.
 
-![logo](animated-logo.svg)
+![logo](https://github.com/yaragirodev/asterium.new/blob/main/photos/logo(1).svg)
