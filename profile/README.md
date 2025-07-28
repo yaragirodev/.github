@@ -18,3 +18,5 @@ i do smth with python
 > ### [PyDOS](https://github.com/HOROSHIY-DEV/PyDOS)
 >
 > DOS parody written on Python.
+
+![logo](animated-logo.svg)
