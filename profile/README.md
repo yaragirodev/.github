@@ -7,9 +7,9 @@ i do smth with python
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,bash,md)](https://skillicons.dev)
 
 ## cool stuff
-> ### [MarkE](https://github.com/portalius-dev/MarkE)
+> ### [networker](https://github.com/yaragirodev/networker)
 > 
-> Easy Markdown editor written in Python with PyQT6.
+> My Custom SpeedTest
 
 > ### [HowITWorks](https://github.com/portalius-dev/HowITWorks)
 >
