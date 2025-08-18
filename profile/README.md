@@ -1,9 +1,6 @@
 # hello ![wavey](https://raw.githubusercontent.com/FragileDeviations/FragileDeviations/main/wavey.gif)
 i do smth with python
 
-> [!CAUTION]
-> ![stat](https://github-readme-stats.vercel.app/api?username=yaragirodev&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515)
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,bash,md)](https://skillicons.dev)
 
 ## cool stuff
@@ -19,4 +16,6 @@ i do smth with python
 >
 > DOS parody written on Python.
 
-![logo](https://github.com/yaragirodev/asterium.new/blob/main/photos/logo(1).svg)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaragirodev&langs_count=15&theme=transparent&layout=compact&hide_border=true&locale=en&hide=html&custom_title=CompactView" alt="Compact View"/>
+</p>
