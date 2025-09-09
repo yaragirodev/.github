@@ -19,3 +19,5 @@ i do smth with python
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaragirodev&langs_count=15&theme=transparent&layout=compact&hide_border=true&locale=en&hide=html&custom_title=CompactView" alt="Compact View"/>
 </p>
+
+![](https://count.getloli.com/get/@yaragirodev.github.readme)
